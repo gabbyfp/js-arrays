@@ -81,3 +81,4 @@ console.log(slogan);
 const mindTricks = ['the', 'greatest', 'teacher', 'failure', 'is'];
 let yodaQuote = mindTricks.toString();
 console.log(yodaQuote);
+
